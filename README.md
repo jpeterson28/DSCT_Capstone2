@@ -1,4 +1,4 @@
-# DSCT_Capstone2 - Santander Value Prediction 
+# DSCT_Capstone2 - What is a Customer's Value? - Santander Value Prediction 
 Repository for the Data Science Career Track Capstone 2 project
 
 In this repository you will find all the required work for the Capstone 2 project. The repository will contain the following:
